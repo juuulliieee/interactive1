@@ -3,7 +3,9 @@
 	padding: 0px;
 }
 a{
-	padding: 20px;
+	margin: 600px;
+	width: 200px;
+	top: 90%;
 	display: block;
 }
 
@@ -107,6 +109,54 @@ a{
 #youtube-1:hover {
 	overflow: visible;
 }
+
+/* instagram */
+#instagram{
+	width: 179px;
+	height: 70px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 100px;
+	left: 61%;
+
+	margin-left: -40px;
+	overflow: hidden;
+
+}
+#instagram img{
+	position: absolute;
+	left: -334px;
+	width: 500px;
+	top: 10px;
+}
+#instagram:hover {
+	overflow: visible;
+}
+#instagram-1{
+	width: 326px;
+	height: 55px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 460px;
+	left: 61%;
+
+	margin-left: -124px;
+	overflow: hidden;
+}
+#instagram-1 img{
+	position: absolute;
+	left: 1px;
+	width: 440px;
+	top: -165px;
+	
+}
+#instagram-1:hover {
+	overflow: visible;
+}
+
+
 
 
 
