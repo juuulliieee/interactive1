@@ -7,6 +7,7 @@ a{
 	display: block;
 }
 
+/* google */
 #grid{
 	width: 50px;
 	height: 50px;
@@ -62,3 +63,50 @@ a{
 #google:hover {
 	overflow: visible;
 }
+
+/* youtube */
+#youtube{
+	width: 100px;
+	height: 48px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 20px;
+	right: 1100px;
+
+	overflow: hidden;
+}
+#image-3{
+	position: absolute;
+	left: -60px;
+	top: -315px;
+	width: 630px;
+	height: auto;
+}
+#youtube:hover {
+	overflow: visible;
+}
+#youtube-1{
+	width: 30px;
+	height: 40px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 20px;
+	right: 80px;
+
+	overflow: hidden;
+}
+#youtube-1 img{
+	position: absolute;
+	left: -322px;
+	width: 630px;
+	top: -8px;
+
+}
+#youtube-1:hover {
+	overflow: visible;
+}
+
+
+
