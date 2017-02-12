@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	padding: 20px;
+	display: block;
+}
+
+#grid{
+	width: 50px;
+	height: 50px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 20px;
+	right: 120px;
+
+	overflow: hidden;
+}
+
+#image-1{
+	position: absolute;
+	left: -150px;
+	top: -38px;
+	width: 630px;
+	height: auto;
+}
+#image-2{
+	position: absolute;
+	left: 50px;
+	top: -38px;
+	width: 40px;
+	height: auto;
+}
+
+#grid:hover {
+	overflow: visible;
+}
+
+#google{
+	width: 300px;
+	height: 140px;
+	border: 1px solid yellow;
+
+	position: absolute;
+	top: 185px;
+	left: 50%;
+
+	margin-left: -150px;
+
+	overflow: hidden;
+
+}
+#google img{
+	position: absolute;
+	left: 10px;
+	width: 1650px;
+	top: -90px;
+}
+
+#google:hover {
+	overflow: visible;
+}
