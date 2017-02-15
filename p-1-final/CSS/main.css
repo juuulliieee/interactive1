@@ -186,7 +186,15 @@ a{
 	position: absolute;
 }
 
+#pg {
+	position: relative;
+	margin-top:200px;
+	margin-left:80px;
+	text-align: : center;
+	color: black;
+	
 
+}
 
 
 
