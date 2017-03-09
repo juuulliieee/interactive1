@@ -1,0 +1,99 @@
+body{
+background-color: white;
+font-family: helvetica;
+}
+#title{
+	margin-top: 120px;
+	text-align:center;
+}
+
+* { margin: 0px; padding: 0px; }
+
+
+
+/* diagram title */
+
+h1#title {
+	position: fixed;
+	top: 20px;
+	left: 50px;
+	transform: rotate(90deg);
+	transform-origin: top left;
+}
+
+/* main structure */
+
+
+#one {
+	transition: all 500ms ease;	
+}
+
+#one_hover {
+	margin-top: -487px;
+	position: relative;
+	opacity: 0;
+	pointer-events: none;
+	transition: all 500ms ease;
+}
+
+#one:hover + #one_hover {
+	opacity: 1;
+}
+
+#one:hover {
+	opacity: .1;
+}
+
+
+
+
+
+.yellow{
+	
+	width: 700px;
+	margin: 0px auto 0px;
+	text-align:center;
+	
+}
+
+/* diagram area */
+
+.yellow img {
+	display: inline-block; 
+	vertical-align: middle; 
+	transform: scale(.8);
+	/*animation-name: fadein;*/
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+	opacity: 1;
+
+}
+
+
+
+/* delay animations */
+
+#yellow-2 {
+	animation-delay: 500ms;	
+
+}
+
+#yellow-3 {
+	animation-delay: 750ms;	
+}
+
+#yellow-4 {
+	animation-delay: 1000ms;	
+}
+
+#yellow-5 {
+	animation-delay: 1250ms;	
+}
+
+/* interactive layout */
+
+
+
+
+
+}
