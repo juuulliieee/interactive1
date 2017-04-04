@@ -1,0 +1,621 @@
+  
+  a {
+  text-decoration: none;
+  color: white;
+}
+
+#pg{
+  position: absolute; bottom: 10px; right: 10px;
+  text-align: : center;
+  color: black;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  min-height: 100vh;
+  min-width: 100vw;
+  position: relative;
+}
+  
+  body#page-2 a{color: blue;
+}
+
+  body#page-3 a{color: black;
+}
+
+
+  body#page-1 {
+      background-image: url(../img/original.JPG);
+      background-size: cover;
+  
+  }
+
+  body#page-2 {
+      background-image: url(../img/42/original.jpg);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+  
+  }
+
+   body#page-3 {
+      background-image: url(../img/m/original.jpg);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+  
+  }
+
+ body#page-1.amaro{
+      background-image: url(../img/amaro.JPG);
+      background-size: cover;    
+  }
+
+ body#page-2.amaro{
+      background-image: url(../img/42/amaro.jpg);
+  }
+
+  body#page-3.amaro{
+      background-image: url(../img/m/amaro.jpg);
+  }
+
+
+  body#page-1.aden{
+      background-image: url(../img/aden.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.aden{
+      background-image: url(../img/42/aden.jpg);
+         
+  }
+
+  body#page-3.aden{
+      background-image: url(../img/m/aden.jpg);
+         
+  }
+
+ body#page-1.ashby{
+      background-image: url(../img/ashby.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.ashby{
+      background-image: url(../img/42/ashby.jpg);
+         
+  }
+
+  body#page-3.ashby{
+      background-image: url(../img/m/ashby.jpg);
+         
+  }
+
+  body#page-1.brannan{
+      background-image: url(../img/brannan.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.brannan{
+      background-image: url(../img/42/brannan.jpg);
+         
+  }
+
+  body#page-3.brannan{
+      background-image: url(../img/m/brannan.jpg);
+         
+  }
+
+  body#page-1.brooklyn{
+      background-image: url(../img/brooklyn.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.brooklyn{
+      background-image: url(../img/42/brooklyn.jpg);
+         
+  }
+
+  body#page-3.brooklyn{
+      background-image: url(../img/m/brooklyn.jpg);
+         
+  }
+
+  body#page-1.charmes{
+      background-image: url(../img/charmes.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.charmes{
+      background-image: url(../img/42/charmes.jpg);
+         
+  }
+
+  body#page-3.charmes{
+      background-image: url(../img/m/charmes.jpg);
+         
+  }
+
+  body#page-1.clarendon{
+      background-image: url(../img/clarendon.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.clarendon{
+      background-image: url(../img/42/clarendon.jpg);
+         
+  }
+
+  body#page-3.clarendon{
+      background-image: url(../img/m/clarendon.jpg);
+         
+  }
+  
+  body#page-1.crema{
+      background-image: url(../img/crema.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.crema{
+      background-image: url(../img/42/crema.jpg);
+          
+  }
+
+  body#page-3.crema{
+      background-image: url(../img/m/crema.jpg);
+          
+  }
+  
+  body#page-1.dogpatch{
+      background-image: url(../img/dogpatch.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.dogpatch{
+      background-image: url(../img/42/dogpatch.jpg);
+          
+  }
+
+  body#page-3.dogpatch{
+      background-image: url(../img/m/dogpatch.jpg);
+          
+  }
+
+  body#page-1.earlybird{
+      background-image: url(../img/earlybird.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.earlybird{
+      background-image: url(../img/42/earlybird.jpg);
+          
+  }
+
+  body#page-3.earlybird{
+      background-image: url(../img/m/earlybird.jpg);
+          
+  }
+
+  body#page-1.gingham{
+      background-image: url(../img/gingham.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.gingham{
+      background-image: url(../img/42/gingham.jpg);
+          
+  }
+
+  body#page-3.gingham{
+      background-image: url(../img/m/gingham.jpg);
+          
+  }
+
+  body#page-1.ginza{
+      background-image: url(../img/ginza.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.ginza{
+      background-image: url(../img/42/ginza.jpg);
+      
+  }
+
+  body#page-3.ginza{
+      background-image: url(../img/m/ginza.jpg);
+      
+  }
+
+  body#page-1.helena{
+      background-image: url(../img/helena.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.helena{
+      background-image: url(../img/42/helena.jpg);
+         
+  }
+
+  body#page-3.helena{
+      background-image: url(../img/m/helena.jpg);
+         
+  }
+
+  body#page-1.hudson{
+      background-image: url(../img/hudson.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.hudson{
+      background-image: url(../img/42/hudson.jpg);
+          
+  }
+
+  body#page-3.hudson{
+      background-image: url(../img/m/hudson.jpg);
+          
+  }
+
+  body#page-1.juno{
+      background-image: url(../img/juno.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.juno{
+      background-image: url(../img/42/juno.jpg);
+         
+  }
+
+  body#page-3.juno{
+      background-image: url(../img/m/juno.jpg);
+         
+  }
+
+  body#page-1.kelvin{
+      background-image: url(../img/kelvin.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.kelvin{
+      background-image: url(../img/42/kelvin.jpg);
+         
+  }
+
+  body#page-3.kelvin{
+      background-image: url(../img/m/kelvin.jpg);
+         
+  }
+
+  body#page-1.lark{
+      background-image: url(../img/lark.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.lark{
+      background-image: url(../img/42/lark.jpg);
+         
+  }
+
+  body#page-3.lark{
+      background-image: url(../img/m/lark.jpg);
+         
+  }
+
+  body#page-1.lo-fi{
+      background-image: url(../img/lo-fi.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.lo-fi{
+      background-image: url(../img/42/lo-fi.jpg);
+         
+  }
+
+  body#page-3.lo-fi{
+      background-image: url(../img/m/lo-fi.jpg);
+         
+  }
+
+  body#page-1.ludwig{
+      background-image: url(../img/ludwig.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.ludwig{
+      background-image: url(../img/42/ludwig.jpg);
+          
+  }
+
+   body#page-3.ludwig{
+      background-image: url(../img/m/ludwig.jpg);
+          
+  }
+
+  body#page-1.maven{
+      background-image: url(../img/maven.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.maven{
+      background-image: url(../img/42/maven.jpg);
+        
+  }
+
+  body#page-3.maven{
+      background-image: url(../img/m/maven.jpg);
+        
+  }
+
+  body#page-1.mayfair{
+      background-image: url(../img/mayfair.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.mayfair{
+      background-image: url(../img/42/mayfair.jpg);
+        
+  }
+
+  body#page-3.mayfair{
+      background-image: url(../img/m/mayfair.jpg);
+        
+  }
+
+  body#page-1.moon{
+      background-image: url(../img/moon.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.moon{
+      background-image: url(../img/42/moon.jpg);
+         
+  }
+
+  body#page-3.moon{
+      background-image: url(../img/m/moon.jpg);
+         
+  }
+
+  body#page-1.nashville{
+      background-image: url(../img/nashville.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.nashville{
+      background-image: url(../img/42/nashville.jpg);
+         
+  }
+
+  body#page-3.nashville{
+      background-image: url(../img/m/nashville.jpg);
+         
+  }
+
+  body#page-1.perpetua{
+      background-image: url(../img/perpetua.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.perpetua{
+      background-image: url(../img/42/perpetua.jpg);
+         
+  }
+
+  body#page-3.perpetua{
+      background-image: url(../img/m/perpetua.jpg);
+         
+  }
+
+  body#page-1.reyes{
+      background-image: url(../img/reyes.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.reyes{
+      background-image: url(../img/42/reyes.jpg);
+         
+  }
+
+  body#page-3.reyes{
+      background-image: url(../img/m/reyes.jpg);
+         
+  }
+
+  body#page-1.rise{
+      background-image: url(../img/rise.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.rise{
+      background-image: url(../img/42/rise.jpg);
+         
+  }
+
+  body#page-3.rise{
+      background-image: url(../img/m/rise.jpg);
+         
+  }
+
+  body#page-1.Sierra{
+      background-image: url(../img/Sierra.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.Sierra{
+      background-image: url(../img/42/Sierra.jpg);
+        
+  }
+
+
+  body#page-3.Sierra{
+      background-image: url(../img/m/Sierra.jpg);
+        
+  }
+
+  body#page-1.skyline{
+      background-image: url(../img/skyline.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.skyline{
+      background-image: url(../img/42/skyline.jpg);
+         
+  }
+
+  body#page-3.skyline{
+      background-image: url(../img/m/skyline.jpg);
+         
+  }
+
+  body#page-1.slumber{
+      background-image: url(../img/slumber.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.slumber{
+      background-image: url(../img/42/slumber.jpg);
+         
+  }
+
+  body#page-3.slumber{
+      background-image: url(../img/m/slumber.jpg);
+         
+  }
+
+  body#page-1.stinson{
+      background-image: url(../img/stinson.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.stinson{
+      background-image: url(../img/42/stinson.jpg);
+        
+  }
+
+  body#page-3.stinson{
+      background-image: url(../img/m/stinson.jpg);
+        
+  }
+
+  body#page-1.sutro{
+      background-image: url(../img/sutro.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.sutro{
+      background-image: url(../img/42/sutro.jpg);
+         
+  }
+
+  body#page-3.sutro{
+      background-image: url(../img/m/sutro.jpg);
+         
+  }
+
+  body#page-1.toaster{
+      background-image: url(../img/toaster.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.toaster{
+      background-image: url(../img/42/toaster.jpg);
+         
+  }
+
+   body#page-3.toaster{
+      background-image: url(../img/m/toaster.jpg);
+         
+  }
+
+  body#page-1.valencia{
+      background-image: url(../img/valencia.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.valencia{
+      background-image: url(../img/42/valencia.jpg);
+          
+  }
+
+  body#page-3.valencia{
+      background-image: url(../img/m/valencia.jpg);
+          
+  }
+
+  body#page-1.vesper{
+      background-image: url(../img/vesper.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.vesper{
+      background-image: url(../img/42/vesper.jpg);
+        
+  }
+
+  body#page-3.vesper{
+      background-image: url(../img/m/vesper.jpg);
+        
+  }
+
+  body#page-1.walden{
+      background-image: url(../img/walden.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.walden{
+      background-image: url(../img/42/walden.jpg);
+       
+  }
+
+  body#page-3.walden{
+      background-image: url(../img/m/walden.jpg);
+       
+  }
+
+  body#page-1.willow{
+      background-image: url(../img/willow.JPG);
+      background-size: cover;    
+  }
+
+  body#page-2.willow{
+      background-image: url(../img/42/willow.jpg);
+      
+  }
+
+  body#page-3.willow{
+      background-image: url(../img/m/willow.jpg);
+      
+  }
+
+div{
+  transition: all 500ms ease;  
+}
+
+div:hover {
+  opacity: .5;
+  transform: translateY(-20px);   
+}
+
+
+div {
+  width: 11vw;
+  height: 100px;
+  float: left;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+  /* #filter-1 {
+    font-size: 30px;
+  }
