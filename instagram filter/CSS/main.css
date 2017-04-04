@@ -608,9 +608,37 @@ div {
 
 
 
+.about {
+  width: 400px;
+  margin: auto;
+  margin-top: 70px;
+   
+}
+
+.ep{
+  width: 400px;
+  margin: auto;
+  margin-top: 70px;
+
+}
+
+.logo{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
 
 
+.download-link {
+  color: red;
+  width: 400px;
+}
 
+.download-link img{
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 90px;
+}
 
 
 
