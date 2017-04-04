@@ -611,14 +611,14 @@ div {
 .about {
   width: 400px;
   margin: auto;
-  margin-top: 70px;
+  margin-top: 50px;
    
 }
 
 .ep{
   width: 400px;
   margin: auto;
-  margin-top: 70px;
+  margin-top: 60px;
 
 }
 
@@ -628,11 +628,6 @@ div {
   margin-top: 20px;
 }
 
-
-.download-link {
-  color: red;
-  width: 400px;
-}
 
 .download-link img{
   width: 300px;
