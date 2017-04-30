@@ -1,0 +1,103 @@
+* {margin: 0px; padding 0px;}
+
+body {height: 100vh; width: 100vw;}
+
+#video-background {
+	
+	/*
+	sets the video to be the width of the window 
+	*/
+	
+	
+}
+.vbg{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	z-index: 0;
+	top:0px;
+	display: none;
+}
+
+img {
+z-index: 1000; 
+position: relative;
+
+width: 100px;
+
+}
+
+#web-1{
+position: absolute;
+top: 300px;
+left: 200px;
+}
+
+#web-2{
+position: absolute;
+top: 500px;
+left: 500px;
+}
+
+#web-3{
+position: absolute;
+top: 400px;
+left: 300px;
+}
+
+#web-4{
+position: absolute;
+top: 100px;
+left: 400px;
+}
+
+#web-5{
+position: absolute;
+top: 200px;
+left: 600px;
+}
+
+#web-6{
+position: absolute;
+top: 390px;
+left: 700px;
+}
+
+#web-7{
+position: absolute;
+top: 290px;
+left: 800px;
+}
+
+#web-8{
+position: absolute;
+top: 80px;
+left: 900px;
+}
+
+#web-9{
+position: absolute;
+top: 500px;
+left: 900px;
+}
+
+#web-10{
+position: absolute;
+top: 450px;
+left: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
